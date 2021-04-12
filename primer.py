@@ -13,3 +13,4 @@ test.primer_int.restype=ctypes.c_int
 test.primer_int.argtypes = [ctypes.c_int]
 print("решение ", test.primer_int)
 
+asd

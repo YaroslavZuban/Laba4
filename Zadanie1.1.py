@@ -5,5 +5,5 @@
 #primer1.primer.restype = ctypes.c_int
 #primer1.primer.argtypes = [ctypes.c_int]
 
-print("Hello")
+print("Hello")da
 # print (ctypes.CDLL('PythonLaba.so').primer(4))
